@@ -1,0 +1,15 @@
+Versuche mit Masshaltigkeit.
+
+
+Runde 6mm Löcher brauchen stempel 0.4mm kleiner. Gehen dann leicht rein. (bei 0.15 qualität)
+Runde 6mm Löcher in den 'gear', passt auch der Stempel 5.8mm hinein...
+
+
+
+
+Dateien:
+
+HoleSizeTest             20*22 mm Klotz mit runden und eckigen Löchern
+HoleSizeTestPos          20*22 mm Klotz mit runden und eckigen Stempeln
+TestStumps               Reihe mit 5.6 bis 5.9 mm Stempel, rund, eckig.
+
