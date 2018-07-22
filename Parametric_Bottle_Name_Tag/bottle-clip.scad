@@ -31,6 +31,7 @@ include <write/Write.scad>
  *	height of the name tag.
  * font: the path to a font for Write.scad.
  */
+ 
 module bottle_clip(ru=13, rl=17.5, ht=26, width=2.5, name="",
 		logo="thing-logos/stratum0-lowres.dxf", font="write/orbitron.dxf") {
 
