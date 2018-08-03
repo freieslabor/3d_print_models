@@ -33,7 +33,7 @@ include <../write/Write.scad>
  */
  
 module bottle_clip(ru=13, rl=17.5, ht=26, width=2.5, name="Bayden",
-		logo="../logos/stratum0-lowres.dxf", font="../write/orbitron.dxf") {
+		logo="../logos/freiesLaborLogo.dxf", font="../write/orbitron.dxf") {
 
 	e=100;  // should be big enough, used for the outer boundary of the text/logo
 
